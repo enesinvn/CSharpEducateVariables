@@ -42,6 +42,7 @@ Bu repo, Murat Yücedağ'ın YouTube’daki C# eğitim kampındaki yolculuğum b
 
 ### 7. Foreach Dögüsü
 **Neler Yaptım:** `foreach` döngüsünü detaylı işlediğimiz bu bölümde bir sınav sistemi uygulaması geliştirdik. Kullanıcıdan veri alarak öğrencilerin sayılarını, sayılara bağlı ortalamalarını ve geçme kalma durumlarını hesaplayan ve listeleyen bir uygulama oluşturdum.
+
 **Ne Öğrendim:** `foreach` dögüsü kullanımını ve nasıl faydalı bir şekilde kullanacağımı öğrendim.
 
 ### 8. Metotlar
