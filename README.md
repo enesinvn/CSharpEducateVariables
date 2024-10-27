@@ -17,7 +17,7 @@ Bu repo, Murat Yücedağ'ın YouTube’daki C# eğitim kampındaki yolculuğum b
 
 ---
 ### 1. Merhaba Dünya
-**Neler Yaptım:** C# dilindeki Console.WriteLine() ve Console.Write() metotlarını kullandım.   
+**Neler Yaptım:** C# dilindeki `Console.WriteLine()` ve `Console.Write()` metotlarını kullandım.   
 **Ne Öğrendim:** Konsola çıktı gösterme, kullanıcıdan çıktı alma şekillerini öğrendim.
 
 ### 2. Değişkenler ve Veri Tipleri
@@ -41,8 +41,8 @@ Bu repo, Murat Yücedağ'ın YouTube’daki C# eğitim kampındaki yolculuğum b
 **Ne Öğrendim:** Farklı veri kümelerini dizilerde toplamanın ve dizi işlemlerinin ne kadar yararlı olduğunu anladım.
 
 ### 7. Foreach Dögüsü
-**Neler Yaptım:** Foreach döngüsünü detaylı işlediğimiz bu bölümde bir sınav sistemi uygulaması geliştirdik. Kullanıcıdan veri alarak öğrencilerin sayılarını, sayılara bağlı ortalamalarını ve geçme kalma durumlarını hesaplayan ve listeleyen bir uygulama oluşturdum.
-**Ne Öğrendim:** Foreach dögüsü kullanımını ve nasıl faydalı bir şekilde kullanacağımı öğrendim.
+**Neler Yaptım:** `foreach` döngüsünü detaylı işlediğimiz bu bölümde bir sınav sistemi uygulaması geliştirdik. Kullanıcıdan veri alarak öğrencilerin sayılarını, sayılara bağlı ortalamalarını ve geçme kalma durumlarını hesaplayan ve listeleyen bir uygulama oluşturdum.
+**Ne Öğrendim:** `foreach` dögüsü kullanımını ve nasıl faydalı bir şekilde kullanacağımı öğrendim.
 
 ### 8. Metotlar
 **Neler Yaptım:** Belirli işlemleri modüler hale getirmek için metotlar tanımladım ve çağırdım.  
